@@ -1,9 +1,9 @@
 # network-intrusion-detectio
-Overview
+**Overview**
 
 This repository contains a Jupyter Notebook implementation of a Network Intrusion Detection System (NIDS) using machine learning techniques. The system is designed to analyze network traffic data and classify potential intrusions to enhance cybersecurity measures.
 
-Features
+**Features**
 
 Preprocessing of network traffic data
 
@@ -14,7 +14,8 @@ Machine learning model training and evaluation
 Detection of malicious network activities
 
 Visualization of results
-Usage
+
+**Usage**
 
 Open the network intrusion detection.ipynb notebook.
 
@@ -22,7 +23,7 @@ Follow the step-by-step instructions to preprocess data, train models, and evalu
 
 Modify hyperparameters or try different models to improve accuracy.
 
-Dependencies
+**Dependencies**
 
 Ensure the following libraries are installed:
 
@@ -40,10 +41,10 @@ Seaborn
 
 Jupyter Notebook
 
-Dataset
+**Dataset**
 
 This project requires a network traffic dataset such as NSL-KDD or CIC-IDS2017. Ensure you download and preprocess the dataset before running the model.
 
-Contributing
+**Contributing**
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests for improvements or new features.
