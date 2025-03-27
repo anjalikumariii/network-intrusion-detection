@@ -1,5 +1,6 @@
 # network-intrusion-detectio
 **Overview**
+
 Network intrusions classification using algorithms such as Support Vector Machine (SVM), Decision Tree, Naive Baye, K-Nearest Neighbor (KNN), Logistic Regression and Random Forest.
 This repository contains a Jupyter Notebook implementation of a Network Intrusion Detection System (NIDS) using machine learning techniques. The system is designed to analyze network traffic data and classify potential intrusions to enhance cybersecurity measures.
 
